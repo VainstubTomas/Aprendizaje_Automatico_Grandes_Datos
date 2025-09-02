@@ -1,0 +1,1 @@
+- Si a una variable no la cerras con un ";", jupyter muestra la tabla
