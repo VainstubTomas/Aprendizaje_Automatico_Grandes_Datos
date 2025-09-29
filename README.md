@@ -17,7 +17,10 @@ Se puede acceder al dataset y a los recursos a través de la API de StatsBomb. L
 
 Página de presentación del dataset: https://www.hudl.com/blog/hudl-statsbomb-free-euro-2025-data 
 
-Link al webinar (Python): https://www.hudl.com/blog/using-hudl-statsbomb-free-data-in-python 
+Link al webinar (Python): https://www.hudl.com/blog/using-hudl-statsbomb-free-data-in-python
+
+## Presentación
+Link de la presentación realizada en clase: https://docs.google.com/presentation/d/1lLOb5RIyX5izsv-DcGx-99z_DnTfakcT/edit?slide=id.p1#slide=id.p1
 
 ## Consideraciones dentro del repositorio
 
